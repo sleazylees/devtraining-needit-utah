@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sn_bcm_impact_rating">
+    <sn_bcm_impact_rating action="INSERT_OR_UPDATE">
+        <description>High impact to our customers, impacting retention &amp; investment</description>
+        <impact_analysis_question/>
+        <impact_category display_value="Customer Impact">46bb4a23077131109336f61d7c1ed08c</impact_category>
+        <name>02 - High</name>
+        <question_text/>
+        <sys_class_name>sn_bcm_impact_rating</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-16 15:41:04</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>465192e7077131109336f61d7c1ed036</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>02 - High</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sn_bcm_impact_rating_465192e7077131109336f61d7c1ed036</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-16 15:43:14</sys_updated_on>
+        <tolerable>false</tolerable>
+        <value>2</value>
+    </sn_bcm_impact_rating>
+</record_update>

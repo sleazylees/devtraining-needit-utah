@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sn_bcm_document">
+    <sn_bcm_document action="INSERT_OR_UPDATE">
+        <default_text><![CDATA[<p>This has been completed with the correct SMEs consulted to the best of the planner&#39;s knowledge</p>]]></default_text>
+        <description>As part of our audit governance, these are the terms which the Plan Owner must adhere to</description>
+        <name>Terms</name>
+        <sys_class_name>sn_bcm_document</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-16 16:14:17</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>1a48962f077131109336f61d7c1ed001</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Terms</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sn_bcm_document_1a48962f077131109336f61d7c1ed001</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-16 16:14:17</sys_updated_on>
+        <title>Terms</title>
+    </sn_bcm_document>
+</record_update>

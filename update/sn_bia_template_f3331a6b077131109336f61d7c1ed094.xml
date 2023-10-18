@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sn_bia_template">
+    <sn_bia_template action="INSERT_OR_UPDATE">
+        <dependency_assessments>49f2636bdb0c10104779141b139619d0,539c1367db0c10104779141b13961924,9c428a67073131109336f61d7c1ed080</dependency_assessments>
+        <description>Impact analysis for network devices, including switches, routers and firewalls</description>
+        <impact_categories>ec3e7bc6070031109336f61d7c1ed098,2eed7bc6070031109336f61d7c1ed07c</impact_categories>
+        <include_cia>no</include_cia>
+        <name>Network Gear Impact Analysis</name>
+        <primary_element_assessed display_value="Network gear">9c428a67073131109336f61d7c1ed080</primary_element_assessed>
+        <sys_class_name>sn_bia_template</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-16 15:58:44</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>f3331a6b077131109336f61d7c1ed094</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Network Gear Impact Analysis</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sn_bia_template_f3331a6b077131109336f61d7c1ed094</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-16 15:58:44</sys_updated_on>
+    </sn_bia_template>
+</record_update>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sn_bcm_timeframe">
+    <sn_bcm_timeframe action="INSERT_OR_UPDATE">
+        <name>48 Hours</name>
+        <starts_at>1970-01-03 00:00:00</starts_at>
+        <sys_class_name>sn_bcm_timeframe</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-16 14:47:14</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>f725826b073131109336f61d7c1ed008</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>48 Hours</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sn_bcm_timeframe_f725826b073131109336f61d7c1ed008</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-16 14:47:14</sys_updated_on>
+    </sn_bcm_timeframe>
+</record_update>

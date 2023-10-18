@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sn_bia_template">
+    <sn_bia_template action="INSERT_OR_UPDATE">
+        <dependency_assessments>3d43b0c45390301040c4ddeeff7b121a,49f2636bdb0c10104779141b139619d0,539c1367db0c10104779141b13961924,b7fa1fe3db0c10104779141b13961988</dependency_assessments>
+        <description/>
+        <impact_categories>7fbc0e63077131109336f61d7c1ed052,46bb4a23077131109336f61d7c1ed08c,5d534e51078031109336f61d7c1ed01d,c17df34a070031109336f61d7c1ed0eb,4a8d374a070031109336f61d7c1ed070</impact_categories>
+        <include_cia>yes</include_cia>
+        <name>Database BIA</name>
+        <primary_element_assessed display_value="Database">1e36c892074031109336f61d7c1ed08a</primary_element_assessed>
+        <sys_class_name>sn_bia_template</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-16 16:01:48</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>45a5526b077131109336f61d7c1ed0de</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Database BIA</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sn_bia_template_45a5526b077131109336f61d7c1ed0de</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-16 16:01:48</sys_updated_on>
+    </sn_bia_template>
+</record_update>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sn_bcm_impact_category">
+    <sn_bcm_impact_category action="INSERT_OR_UPDATE">
+        <applicable_timeframes>584e13a7db0c10104779141b13961901,b18ed3a7db0c10104779141b1396193a,ad6e5f67db0c10104779141b1396199d,f725826b073131109336f61d7c1ed008,435e13a7db0c10104779141b139619de,1b2e5f67db0c10104779141b139619ce,136e9f67db0c10104779141b1396194c</applicable_timeframes>
+        <contributes_to>recovery_time_objective</contributes_to>
+        <description>Impact to customer</description>
+        <helper_text>Impact to external customers</helper_text>
+        <max_rto_value display_value="48 Hours">f725826b073131109336f61d7c1ed008</max_rto_value>
+        <name>Customer Impact</name>
+        <sys_class_name>sn_bcm_impact_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-16 15:19:59</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>46bb4a23077131109336f61d7c1ed08c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Customer Impact</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sn_bcm_impact_category_46bb4a23077131109336f61d7c1ed08c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-16 15:19:59</sys_updated_on>
+    </sn_bcm_impact_category>
+</record_update>
